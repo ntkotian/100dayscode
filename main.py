@@ -1,0 +1,7 @@
+# print(9+8)
+weight=float(input("your weight in kg: " ))
+height=float(input("your height in meter : "))
+print(type(weight))
+BMI=weight / (height**2)
+print(type(BMI))
+print(BMI)
